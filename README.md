@@ -1,0 +1,4 @@
+README
+======
+
+miscellaneous irc bots
