@@ -1,0 +1,4 @@
+source :rubygems
+
+gem 'activesupport'
+gem 'carrier-pigeon', :git => "https://github.com/portertech/carrier-pigeon.git", :ref => "95dfc45"
